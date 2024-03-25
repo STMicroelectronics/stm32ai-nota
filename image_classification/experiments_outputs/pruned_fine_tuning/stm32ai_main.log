@@ -1,0 +1,13 @@
+Model file : ../../../image_classification/experiments_outputs/pruned_models/pruned_model.h5
+Dataset : flowers
+
+The last epoch history :
+['epoch', 'accuracy', 'loss', 'lr', 'val_accuracy', 'val_loss']
+['42', '0.9632152318954468', '0.10925066471099854', '0.000125', '0.8896457552909851', '0.5094593167304993']
+
+Training runtime : 416 s
+Average time per epoch : 9.67 s
+
+Float model :
+Accuracy of float model : 89.65 %
+Loss of float model : 0.34 

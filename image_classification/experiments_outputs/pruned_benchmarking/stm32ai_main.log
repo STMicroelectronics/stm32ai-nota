@@ -1,0 +1,14 @@
+
+Stm32ai version : 8.1.0
+Benchmarking board : STM32H747I-DISCO
+Internal RAM usage : 0.42 KiB
+External RAM usage : 588.0 KiB
+Cycles : 106.659 M
+Inference_time : 266.65 ms
+Total RAM : 621.22 KiB
+RAM Runtime : 32.8 KiB
+Total Flash : 263.97 KiB
+Estimated Flash Code : 99.9 KiB
+RAM Activations : 588.42 KiB
+Flash weights : 164.07 KiB
+MACCs : 39.419 M
