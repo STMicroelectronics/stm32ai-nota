@@ -2,9 +2,9 @@
 
 <h2> Neural network pruning by using NetsPresso </h2>
 
-This repository provides a guide on how to compress neural network models to reduce their memory footprints and computational requirements, making deployment on STM32 targets easier. The particular compression method highlighted in this repository is structural pruning, achieved by using Netspresso. Please browse the [Docs](https://nota-netspresso.github.io/PyNetsPresso/) for details about it  
+This repository provides a guide on how to compress neural network models to reduce their memory footprints and computational requirements, making deployment on STM32 targets easier. The particular compression method highlighted in this repository is structural pruning, achieved by using NetsPresso. Please browse the [Docs](https://nota-netspresso.github.io/PyNetsPresso/) for details about it  
 
-The tutorials are presented as Jupyter notebooks and config files, which will guide you through the process of training, pruning, fine-tuning, and quantizing a deep learning model using Netspresso and the STM32AI Model Zoo. You can then benchmark the models by using the STM32Cube.AI Developer Cloud. The notebooks provide a step-by-step guide for users, making it easy for anyone to compress their neural network models efficiently and deploy them on STM32 targets.
+The tutorials are presented as Jupyter notebooks and config files, which will guide you through the process of training, pruning, fine-tuning, and quantizing a deep learning model using NetsPresso and the STM32AI Model Zoo. You can then benchmark the models by using the STM32Cube.AI Developer Cloud. The notebooks provide a step-by-step guide for users, making it easy for anyone to compress their neural network models efficiently and deploy them on STM32 targets.
 
 
 <div align="center">
@@ -29,7 +29,7 @@ The repository contains the following folders:
    - `netspresso_model_pruning.ipynb`: a notebook for image classification model pruning.
    - **config_files** : contains the yaml config files to use with the notebook.
    - **experiments_outputs** : contains the directories and files created during the runs.   
-   - **pretrained_models** : contains several baseline models and Netspresso pruned models with their performances listed in the [README](image_classification/README.md)
+   - **pretrained_models** : contains several baseline models and NetsPresso pruned models with their performances listed in the [README](image_classification/README.md)
 - **object_detection**: Coming soon. 
 
 ## Before you start
