@@ -7,6 +7,7 @@ This repository provides a guide on how to compress neural network models to red
 The tutorials are presented as Jupyter notebooks and config files, which will guide you through the process of training, pruning, fine-tuning, and quantizing a deep learning model using NetsPresso and the STM32AI Model Zoo. You can then benchmark the models by using the STM32Cube.AI Developer Cloud. The notebooks provide a step-by-step guide for users, making it easy for anyone to compress their neural network models efficiently and deploy them on STM32 targets.
 
 
+
 <div align="center">
     <p align="center">
         <a href="https://www.python.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/python-3.9%20%7C%203.10-blue" /></a>
@@ -18,6 +19,10 @@ The tutorials are presented as Jupyter notebooks and config files, which will gu
     </p>
 </div>
 </br>
+
+## Watch the demo 
+
+For a more interactive learning experience, a video tutorial can walk you through the entire process visually, from training your deep learning model to deploying it on STM32 targets using NetsPresso and the STM32AI Model Zoo. Watch the full [tutorial](https://www.youtube.com/watch?v=iQxWmRDQNBw) on YouTube to see each step.
 
 
 ## Repository Components
